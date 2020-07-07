@@ -1,0 +1,11 @@
+.capa{
+	    border: 1px solid #cdcdcd;
+}
+.capa li{
+    list-style: none;
+    padding-left: 10px;
+}
+.seleccionado{
+	color:#FF5733;
+	font-weight: bold;
+}
